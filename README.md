@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Ahamed R</h1>
-<h3 align="center">I'm a dedicated Computer Science enthusiast with a passion for frontend development. My journey in the tech world is fueled by a commitment to excellence, as evident in my academic achievements. I thrive on enhancing my skills through participation in contests, workshops, and hackathons, constantly seeking opportunities for learning and growth.</h3>
+<h3 align="center">I'm a dedicated Computer Science enthusiast with a strong passion for both frontend development and data science. My journey in the tech world is driven by a commitment to excellence, as evidenced by my academic achievements. I thrive on enhancing my skills through participation in contests, workshops, and hackathons, continuously seeking opportunities for learning and growth.</h3>
 
 - 📫 How to reach me **sent2ahamed@gmail.com**
 
