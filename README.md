@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahamed R</h1>
-<h3 align="center">A driven Computer Science student specializing in DataTech and WebTech, dedicated to utilizing technology for tangible real-world outcomes. 🚀 I excel in refining my skills through rigorous participation in contests, workshops, and hackathons, consistently pushing the boundaries of my expertise. 🎓 Dedicated to excellence in academic pursuits. 💻 I harbor a profound enthusiasm for crafting seamless user experiences and remain steadfast in my pursuit of growth within the ever-evolving realms of technology. 🌟 Let's collaborate to develop innovative solutions that leave a lasting impact. Happy Coding!</h3>
+<h2 align="center">Hi 👋, I'm Ahamed R</h2>
+<h5 align="center">Passionate about WebTech & DataTech, driven to make real-world impact. Let's collaborate on innovative solutions! Happy Coding!💻🌟</h5>
 
 - 👨‍💻 All of my projects are available at [https://ahamedr08.github.io/Portfolio/](https://ahamedr08.github.io/Portfolio/)
 
