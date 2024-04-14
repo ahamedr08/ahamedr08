@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahamedr08.github.io/Portfolio/](https://ahamedr08.github.io/Portfolio/)
 
-- 📝 I regularly write articles on [https://ahamedr2k3.blogspot.com](https://ahamedr2k3.blogspot.com)
+- 📝 I regularly write articles on [https://ahamedr08.blogspot.com](https://ahamedr2k3.blogspot.com)
 
 - 📫 How to reach me **sent2ahamed@gmail.com**
 
