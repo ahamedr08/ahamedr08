@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Ahamed R</h2>
-<h4 align="center"><em>Passionate about WebTech & DataTech, driven to make real-world impact. Let's collaborate on innovative solutions! 💻🌟</em></h4>
+<h3 align="center"><em>Passionate about WebTech & DataTech, driven to make real-world impact. Let's collaborate on innovative solutions! 💻🌟</em></h3>
 
 - 👨‍💻 All of my projects are available at [https://ahamedr08.github.io/Portfolio/](https://ahamedr08.github.io/Portfolio/)
 
