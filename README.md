@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋, I'm Ahamed R</h2>
-<h4 align="center"><em>Passionate about WebTech & DataTech, driven to make real-world impact. Let's collaborate on innovative solutions! 💻🌟</em></h4>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h4 align="center"><em>Passionate about WebTech & DataTech, driven to make real-world impact. Let's collaborate on innovative solutions! 💻🌟</em></h4>
+
 - 👨‍💻 All of my projects are available at [https://ahamedr08.github.io/Portfolio/](https://ahamedr08.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [https://ahamedr08.blogspot.com](https://ahamedr08.blogspot.com)
