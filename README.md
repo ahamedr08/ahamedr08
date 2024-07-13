@@ -76,14 +76,3 @@
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="40" height="40"/> 
   </a> 
 </p>
-
-<h4 align="left">GitHub Stats:</h4>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahamedr08&theme=tokyonight" alt="ahamedr08" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahamedr08&show_icons=true&theme=tokyonight" alt="ahamedr08" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamedr08&layout=compact&theme=tokyonight" alt="ahamedr08" />
-</p>
