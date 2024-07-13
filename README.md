@@ -8,10 +8,6 @@
   <a href="mailto:sent2ahamed@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-contact-blue" alt="email"></a>
 </p>
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://ahamedr08.github.io/Portfolio/)
-- 📝 I regularly write articles on [my blog](https://ahamedr08.blogspot.com)
-- 📫 How to reach me **sent2ahamed@gmail.com**
-
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/ahamedr08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahamedr08/" height="30" width="40" /></a>
