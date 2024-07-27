@@ -1,4 +1,4 @@
-<div style="background-image: url('https://images.unsplash.com/photo-1522202176988-66273c2fd55f'); background-size: cover; background-position: center; padding: 30px; border-radius: 15px;">
+<div style="background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); padding: 30px; border-radius: 15px;">
 <h2 align="center" style="color: white;">Hi 👋, I'm Ahamed R</h2>
 <h3 align="center" style="color: white;"><em>Passionate about WebTech & DataTech, driven to make real-world impact. Let's collaborate on innovative solutions! 💻🌟</em></h3>
 </div>
