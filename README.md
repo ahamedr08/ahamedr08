@@ -1,5 +1,8 @@
-<h2 align="center">Hi 👋, I'm Ahamed R</h2>
-<h3 align="center"><em>Passionate about WebTech & DataTech, driven to make real-world impact. Let's collaborate on innovative solutions! 💻🌟</em></h3>
+<div style="background-image: url('https://images.unsplash.com/photo-1522202176988-66273c2fd55f'); background-size: cover; background-position: center; padding: 30px; border-radius: 15px;">
+<h2 align="center" style="color: white;">Hi 👋, I'm Ahamed R</h2>
+<h3 align="center" style="color: white;"><em>Passionate about WebTech & DataTech, driven to make real-world impact. Let's collaborate on innovative solutions! 💻🌟</em></h3>
+</div>
+
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 <p align="left"> 
@@ -63,4 +66,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahamedr08&theme=radical" alt="Ahamed R's GitHub streak" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamedr08&layout=compact&theme=radical" alt="Ahamed R's top languages" />
 </p>
-
