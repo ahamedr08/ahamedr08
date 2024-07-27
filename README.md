@@ -60,12 +60,7 @@
 
 <h4 align="left">GitHub Stats:</h4>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahamedr08&show_icons=true&theme=radical" alt="Ahamed R's GitHub stats" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahamedr08&theme=radical" alt="Ahamed R's GitHub streak" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamedr08&layout=compact&theme=radical" alt="Ahamed R's top languages" />
 </p>
 
-<h4 align="left">Support:</h4>
-<p>
-  <a href="https://www.buymeacoffee.com/ahamedr08" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow" alt="Buy Me A Coffee"></a>
-</p>
