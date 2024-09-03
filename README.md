@@ -14,25 +14,16 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ahamedr08" target="_blank">
-    <img src="https://img.shields.io/github/followers/ahamedr08?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/ahamedr08" target="_blank">
-    <img src="https://img.shields.io/github/stars/ahamedr08?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars">
-  </a>
-</p>
-
 - 👨‍💻 All of my projects are available at [my portfolio](https://ahamedr08.github.io/Portfolio/)
 - 📝 I regularly write articles on [my blog](https://ahamedr08.blogspot.com)
 - 📫 How to reach me **sent2ahamed@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-  <a href="https://linkedin.com/in/ahamedr08/" target="_blank">
+  <a href="https://linkedin.com/in/ahamedr08/" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.hackerrank.com/profile/21CSE034_AHAMED" target="_blank">
+  <a href="https://www.hackerrank.com/profile/21CSE034_AHAMED" target="blank">
     <img align="center" src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank">
   </a>
 </p>
@@ -75,4 +66,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="40" height="40"/> 
   </a> 
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahamedr08&theme=tokyonight" alt="ahamedr08" />
 </p>
