@@ -1,30 +1,41 @@
-<div style="background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); padding: 30px; border-radius: 15px;">
-<h2 align="center" style="color: white;">Hi 👋, I'm Ahamed R</h2>
-<h3 align="center" style="color: white;"><em>Passionate about WebTech & DataTech, driven to make real-world impact. Let's collaborate on innovative solutions! 💻🌟</em></h3>
-</div>
+<h1 align="center">Hi 👋, I'm Ahamed R</h1>
+<h3 align="center">Passionate about WebTech & DataTech, driven to make real-world impact. Let's collaborate on innovative solutions! 🚀</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
-
-<p align="left"> 
-  <a href="https://ahamedr08.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-visit-brightgreen" alt="portfolio"></a>
-  <a href="https://ahamedr08.blogspot.com" target="_blank"><img src="https://img.shields.io/badge/Blog-read-orange" alt="blog"></a>
-  <a href="mailto:sent2ahamed@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-contact-blue" alt="email"></a>
+<p align="center">
+  <img align="center" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="coding" width="400"/>
 </p>
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://ahamedr08.github.io/Portfolio/)
+---
+
+### 🚀 About Me
 - 📝 I regularly write articles on [my blog](https://ahamedr08.blogspot.com)
-- 📫 How to reach me **sent2ahamed@gmail.com**
+- 👨‍💻 All of my projects are available at [my portfolio](https://ahamedr08.github.io/Portfolio/)
+- 📫 How to reach me: **sent2ahamed@gmail.com**
 
-<h4 align="left">Connect with me:</h4>
+---
+
+### 🌐 Connect with Me:
 <p align="left">
-<a href="https://linkedin.com/in/ahamedr08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahamedr08/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/21CSE034_AHAMED" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/21cse034_ahamed" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ahamedr08/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/21CSE034_AHAMED" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/arcse08/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/ahamedgtil/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
 </p>
 
-<h4 align="left">Languages and Tools:</h4>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -59,11 +70,33 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a> 
 </p>
 
-<h4 align="left">GitHub Stats:</h4>
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahamedr08&theme=radical" alt="Ahamed R's GitHub streak" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamedr08&layout=compact&theme=radical" alt="Ahamed R's top languages" />
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahamedr08&theme=radical" alt="Ahamed R's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamedr08&layout=compact&theme=radical" alt="Ahamed R's top languages" />
 </p>
 
+---
+
+### 🎨 Extras:
+<p align="center">
+  <a href="https://ahamedr08.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-visit-brightgreen" alt="Portfolio"/>
+  </a>
+  <a href="https://ahamedr08.blogspot.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-read-orange" alt="Blog"/>
+  </a>
+  <a href="mailto:sent2ahamed@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-contact-blue" alt="Email"/>
+  </a>
+</p>
