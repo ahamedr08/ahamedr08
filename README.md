@@ -33,6 +33,11 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/spyder-ide-5.png" alt="spyder-ide-5"/>
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+  <img width="40" height="40" src="https://img.icons8.com/color/50/apache-netbeans.png" alt="apache-netbeans"/>
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
+  <img width="40" height="40" src="https://img.icons8.com/color/50/pycharm.png" alt="pycharm"/>
 </p>
 
 <p align="center">
