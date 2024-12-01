@@ -59,8 +59,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahamedr08&theme=radical" alt="Streak Stats" />
 </p>
 
-[![Ahamed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahamedr08&bg_color=0d1117&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 
